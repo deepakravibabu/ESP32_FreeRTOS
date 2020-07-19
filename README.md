@@ -11,3 +11,5 @@ Queue (to transfer data between multiple tasks)
 Mutex (to prevent resource contention when two tasks access a common resource)
 
 Interrupt (interrupt service routine task)
+
+![Alt text](/Interrupt/interrupt.gif)
